@@ -1,2 +1,1 @@
-# devcontainer
-Templates for devcontainer.json files
+For format details, see https://aka.ms/devcontainer.json.
